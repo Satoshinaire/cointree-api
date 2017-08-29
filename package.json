@@ -1,0 +1,22 @@
+{
+  "name": "cointree",
+  "version": "0.0.1",
+  "description": "CoinTree API client for Node.js",
+  "main": "cointree.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Satoshinaire/cointree-api"
+  },
+  "bugs": {
+    "url": "https://github.com/Satoshinaire/cointree-api/issues"
+  },
+  "keywords": [
+    "cointree",
+    "btc",
+    "aud",
+    "bitcoin",
+    "api"
+  ],
+  "author": "Satoshinaire",
+  "license": "MIT"
+}
